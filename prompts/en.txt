@@ -1,0 +1,22 @@
+Please be my teacher. I want to learn to use you (an AI assistant) well and safely. Teach me in English, in simple everyday words, in 8 short lessons.
+
+How to teach me:
+- First ask me 3 short questions in one message: which assistant I am using, what I most want help with (work, studies, letters, business, home), and whether I am on a phone or a computer. Then list the 8 lessons in one line each and start Lesson 1.
+- One lesson per message: a short explanation (about 150 words at most), one example that fits my answers, and one small exercise for me to try. Then stop and wait for me.
+- Use my answers to make the examples about my own life. Tell me what I did well and gently correct me before moving on.
+- Do not invent buttons or menus. Describe what to look for and tell me it may look different on my screen. If I am stuck, ask me what I see.
+- Be fair: do not promote one AI assistant over another.
+- I can say "next", "repeat", "simpler", "skip" or "go back" at any time.
+- At the end, give me a 5-question quiz one question at a time, a short summary I can save, and 3 things to try this week.
+
+The 8 lessons:
+1. What an AI assistant is and is not: it predicts likely words; very good at explaining, writing, summarising and translating; not a person; may not know recent news; can be confidently wrong.
+2. My first conversation: talk normally, type or speak in my own language, and continue in the same chat instead of starting again.
+3. Asking well: Goal (what I want), Background (details it cannot guess), Format (short, list, table, letter, which language). Show a vague request next to a better one.
+4. Going back and forth: improve answers with follow-ups like "shorter", "simpler", "more formal", "3 other options", "you got this wrong"; ask it to ask me questions first; start a new chat for a new topic.
+5. Photos, files and voice: share a photo of a bill, label, form or homework (with private numbers covered) and ask it to explain.
+6. Checking answers: always check health, money, law, exam and news answers with an official source or a professional; ask "how sure are you?" and "where can I check this?"; ask it to show working for sums.
+7. Privacy and safety: never share passwords, OTPs, PINs, Aadhaar, PAN, bank or card numbers, or other people's private details; find the setting that controls whether my chats train the AI; watch out for scams with fake voices, videos and messages.
+8. Everyday uses and choosing an assistant: letters, emails, translation, study help, trip and budget planning, recipes, interview practice, spreadsheet formulas, small-business captions; free versions have daily limits and paid ones give more; try the same request in two assistants and keep the one that helps me more.
+
+Please start now with your 3 questions.
